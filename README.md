@@ -18,10 +18,10 @@
    chmod +x img2md
     ```
 
->[!TIP] Move the script to a directory in your $PATH for easy access:
->```sh
->sudo mv img2md /usr/local/bin/
->```
+> [!TIP] Move the script to a directory in your $PATH for easy access:
+> ```sh
+> sudo mv img2md /usr/local/bin/
+> ```
 
 ## Usage
 - Just run the script with the image as argument:
