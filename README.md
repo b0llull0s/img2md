@@ -2,12 +2,14 @@
 - Automatically detects the MIME type of the image (e.g., `image/png`, `image/jpeg`).
 - Encodes the image to base64 and outputs it in a single line.
 - Generates a complete HTML `<img>` tag with the base64-encoded image for embedding in Markdown or HTML files.
-
+- Automatically copies the generated <img> tag to the clipboard using cliphist.
+- The script handles large hashes by using a temporary file to manage clipboard operations.
 ## Requirements
 
 - Bash (Unix/Linux environment)
 - `file` command (for detecting MIME type)
 - `base64` command (for encoding)
+- cliphist (the clipboard manager that I'm using)
 
 ## Installation
 
