@@ -17,7 +17,7 @@
    ```bash
    chmod +x img2md
 
->[!TIP] Move the script to a directory in your $PATH for easy access:
+> [!TIP] Move the script to a directory in your $PATH for easy access:
 ```sh
 sudo mv img2md /usr/local/bin/
 ```
