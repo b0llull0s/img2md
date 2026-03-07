@@ -1,3 +1,4 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J41UVIX7)
 # img2md
 - Automatically detects the MIME type of the image (e.g., `image/png`, `image/jpeg`).
 - Encodes the image to base64 and outputs it in a single line.
